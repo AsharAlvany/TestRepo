@@ -6,3 +6,4 @@ print("this is the new Dashboard")
 
 # section 2 - working on patient aesthetic
 print("This is the updated patient view") 
+print("Alexa is making edits")
